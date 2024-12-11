@@ -2,8 +2,6 @@
     "name": "night-knitting",
     "version": "1.0.0",
     "main": "index.js",
-    "author": "Shivam Singh",
-    "license": "MIT",
     "scripts": {
         "start": "node index.js",
         "dev": "nodemon index.js",
